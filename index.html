@@ -9,13 +9,14 @@
     <h1>Forms</h1>
     <form> 
         <label for="user">Username</label>
-        <input name="username" type="text" id="user">
+        <input maxlength="15" name="username" type="text" id="user" placeholder="Username" required>
         <label for="email">Email</label>
-        <input name="email" type="email" id="email">
+        <input name="email" type="email" id="email" placeholder="Email" required>
         <select name="products" id="product">
             <option value="Macbook">Mac</option>
-            <option value="iphone">Iphone</option>
+            <option value="iphone">Iphone 12</option>
         </select>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea>
         <button type="submit">Submit</button>
     </form>
 </body>
