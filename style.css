@@ -4,9 +4,12 @@
     box-sizing: border-box;
 }
 
-div { 
+button { 
+    margin: 20rem;
+    padding: 2rem 4rem;
     background: lightblue;
+    border: 0.3rem solid lightblue;
     color: white;
-    padding: 20px;
-    margin: 20px;
+    font-size: 2.4rem;
+    border-radius: 1rem;
 }
