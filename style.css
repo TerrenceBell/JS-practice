@@ -1,5 +1,12 @@
-button { 
-    padding: 50px 20px; 
-    background-color: cadetblue;
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+div { 
+    background: lightblue;
+    color: white;
+    padding: 20px;
+    margin: 20px;
 }
