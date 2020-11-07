@@ -4,20 +4,4 @@
     box-sizing: border-box;
 }
 
-button { 
-    margin: 20rem;
-    padding: 2rem 4rem;
-    background: lightblue;
-    border: 0.3rem solid lightblue;
-    color: white;
-    font-size: 2.4rem;
-    border-radius: 1rem;
-}
 
-button:hover { 
-    padding: 2rem 4rem;
-    background: tomato;
-}
-button:focus {
-    background: violet;
-}
