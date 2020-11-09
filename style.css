@@ -12,3 +12,28 @@
 .box1 {
     background-color: teal;
 }
+
+.box2 { 
+    background-color: thistle;
+}
+
+.box3 { 
+    background-color: tomato;
+}
+
+.box4 { 
+    background-color: turquoise;
+}
+
+.box5 { 
+    background-color: violet;
+}
+
+.box6 { 
+    background-color: yellowgreen;
+}
+
+.container { 
+    border: 3px solid black; 
+    display: flex;
+}
