@@ -4,4 +4,11 @@
     box-sizing: border-box;
 }
 
+.box { 
+    height: 10rem;
+    width: 10rem;
+}
 
+.box1 {
+    background-color: teal;
+}
