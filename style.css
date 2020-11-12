@@ -36,7 +36,5 @@
 .container { 
     border: 3px solid black; 
     display: flex;
-    justify-content: center;
-    height: 50vh;
-    align-items: center;
 }
+/* order will allow us to switch certain elements with others without modifying the html */
